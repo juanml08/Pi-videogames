@@ -1,0 +1,15 @@
+.paginated_btn {
+    padding: 7px 14px;
+    margin: 2px;
+    border-radius: 2px;
+    color: #C4D946;
+}
+
+.on {
+    color: antiquewhite;
+    background-color: #C4D946;
+    padding: 5px;
+    padding: 7px 14px;
+    margin: 2px;
+    border-radius: 2px;
+}
